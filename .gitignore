@@ -1,0 +1,15 @@
+venv312/
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+*.spec
+
+.idea/
+.vscode/
+
+.env
+
+data/*.db
