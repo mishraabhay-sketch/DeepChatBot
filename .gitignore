@@ -1,15 +1,11 @@
 venv312/
+test_env/
+
 __pycache__/
 *.pyc
 
 build/
 dist/
 
-*.spec
-
-.idea/
-.vscode/
-
-.env
-
-data/*.db
+*.exe
+*.pkg
